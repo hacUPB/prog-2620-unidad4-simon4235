@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="gl38V8mkUeuZDlTXC6uB">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-3" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+          <mxGeometry height="70" width="95" x="365" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-5" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SpWaBN_B7FfNoxLTp4EA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-15" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="For&lt;div&gt;Recorre flota&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="357.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-7" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-13" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="260" />
+              <mxPoint x="670" y="560" />
+              <mxPoint x="210" y="560" />
+              <mxPoint x="210" y="160" />
+            </Array>
+            <mxPoint x="190" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="For&lt;div&gt;Recorre componentes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="317.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-9" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-12" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Si horas_uso &amp;gt; limite" vertex="1">
+          <mxGeometry height="80" width="157.5" x="333.75" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-11" edge="1" parent="1" source="SpWaBN_B7FfNoxLTp4EA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="SpWaBN_B7FfNoxLTp4EA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="530" />
+              <mxPoint x="240" y="530" />
+              <mxPoint x="240" y="260" />
+            </Array>
+            <mxPoint x="240" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-8" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;Mantenimiento requerido&quot;&lt;div&gt;matricula, modelo, componente, horas_uso, limite&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="450" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="507.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="SpWaBN_B7FfNoxLTp4EA-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="88.75" x="491.25" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
