@@ -24,4 +24,4 @@
 
 ### Estructura de organización de información:
 
-![Estructura](../../Imagenes/estructura.png)
+![Estructura](../../Imagenes/Estructura-reto.png)
